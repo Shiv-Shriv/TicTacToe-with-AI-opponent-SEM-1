@@ -9,10 +9,10 @@ The project also includes a leaderboard system per run of the game to keep track
 
 
 # Features
-• Two-player (X and O) interactive game (Human vs Human or Human vs Computer).
-• Validates user input and prevents overwriting of moves (invalid moves).
-• Automatically checks for win or draw condition after every legal move.
-• Displays the game board dynamically on the program window after each turn.
-• Implements modular programming using user-defined functions with strong program readability and modifiability.
-• Simple and efficient logic using loops, arrays, conditionals and recursion.
+- Two-player (X and O) interactive game (Human vs Human or Human vs Computer).
+- Validates user input and prevents overwriting of moves (invalid moves).
+- Automatically checks for win or draw condition after every legal move.
+- Displays the game board dynamically on the program window after each turn.
+- Implements modular programming using user-defined functions with strong program readability and modifiability.
+- Simple and efficient logic using loops, arrays, conditionals and recursion.
 
