@@ -1,0 +1,17 @@
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Dependency files
+*.depend
+
+# Code::Blocks generated files
+bin/
+obj/
+
+# VS Code (if you ever open it there)
+.vscode/
